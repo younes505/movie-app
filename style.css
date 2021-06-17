@@ -93,7 +93,7 @@ main {
 }
 
 .overview {
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.9);
   padding: 2rem;
   position: absolute;
   max-height: 100%;
